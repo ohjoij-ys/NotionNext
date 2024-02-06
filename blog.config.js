@@ -231,7 +231,7 @@ const BLOG = {
     {
       name: '王都グランセル',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      url: 'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/0d2b9f36-1756-4eae-a037-cdfc6e661c7f/(01)_kensuke_ushio_windglassbluebird.flac?id=2cd9e9e1-10e9-4d22-8622-1be547ef656e&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707328800000&signature=DJ6dM9DRSc-yXA22P2q8fKXAuRMc93GkkFfzaaXthNE&downloadName=%2801%29+%5Bkensuke+ushio%5D+wind%2Cglass%2Cbluebird.flac',
       cover:
             'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
