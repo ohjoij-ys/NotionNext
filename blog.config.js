@@ -222,19 +222,47 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST:  [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+      name: 'wind, glass, bluebird',
+      artist: '牛尾憲輔',
+      url: 'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/0d2b9f36-1756-4eae-a037-cdfc6e661c7f/(01)_kensuke_ushio_windglassbluebird.flac?id=2cd9e9e1-10e9-4d22-8622-1be547ef656e&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=5dfDmhTNeJ8zqI8jt_GgUIK-1JlhQMWXPXj8YXYV7TA&downloadName=%2801%29+%5Bkensuke+ushio%5D+wind%2Cglass%2Cbluebird.flac',
       cover:
-            'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+            'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/1d4a8c68-957e-418e-8d35-91d8fa570f0d/Screenshot_2024-02-07_121131.webp?id=40d2a1da-c77a-458e-bd72-06a00856660c&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=MJztpYq-PxK6-WGNPtrsLOY4j0OmOa0YAyPykTecmnk&downloadName=Screenshot+2024-02-07+121131.webp'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/0d2b9f36-1756-4eae-a037-cdfc6e661c7f/(01)_kensuke_ushio_windglassbluebird.flac?id=2cd9e9e1-10e9-4d22-8622-1be547ef656e&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707328800000&signature=DJ6dM9DRSc-yXA22P2q8fKXAuRMc93GkkFfzaaXthNE&downloadName=%2801%29+%5Bkensuke+ushio%5D+wind%2Cglass%2Cbluebird.flac',
+      name: 'wind,glass,girls',
+      artist: '牛尾憲輔',
+      url: 'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/2af2e8df-6c95-4d9c-a9c5-d82dda1078d6/(37)_kensuke_ushio_windglassgirls.flac?id=bbf921dd-d063-4455-ab07-0d9b74df0bf4&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=kr1v7gcLly5DlXdWlBMNv_s5szuOMAwtdkp2yGjVBgU&downloadName=%2837%29+%5Bkensuke+ushio%5D+wind%2Cglass%2Cgirls.flac',
       cover:
-            'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
-    }
+            'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/1d4a8c68-957e-418e-8d35-91d8fa570f0d/Screenshot_2024-02-07_121131.webp?id=40d2a1da-c77a-458e-bd72-06a00856660c&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=MJztpYq-PxK6-WGNPtrsLOY4j0OmOa0YAyPykTecmnk&downloadName=Screenshot+2024-02-07+121131.webp'
+    },
+    {
+      name: 'MARS RED THEME Largo',
+      artist: '村中俊之',
+      url: 'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/4d1b2453-1c83-4bb8-ae0a-6c7681961de9/34_MARS_RED_THEME_Largo.flac?id=81890cbe-e1e7-48f4-80e9-359ff82529c5&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=7Gb5CEfdzg4NI_szRhcL9c257nUel3n0arEKpQUg6h4&downloadName=34+MARS+RED+THEME+Largo.flac',
+      cover:
+            'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/aa509cee-5ec8-4107-8a23-86c38db17d36/img291_(%E5%B0%8F).webp?id=bb5c892f-80e5-453d-aed6-ffc657dfa2ee&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=8TZVDfyd3scpChLcerURGsWkqsjh4WokUeuDrWuHVtM&downloadName=img291+%28%E5%B0%8F%29.webp'
+    },
+    {
+      name: '岬のテーマ',
+      artist: '村中俊之',
+      url: 'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/d354b515-83f2-472d-a542-aebfbe9b1d51/09_%E5%B2%AC%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E1.flac?id=d6553f12-dade-4c3a-8068-4fd862a86157&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=VqXZ2EF2IRNptLQNCRD-9fTl19LyHYGhaOxkIPk3lfg&downloadName=09+%E5%B2%AC%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E1.flac',
+      cover:
+            'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/aa509cee-5ec8-4107-8a23-86c38db17d36/img291_(%E5%B0%8F).webp?id=bb5c892f-80e5-453d-aed6-ffc657dfa2ee&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=8TZVDfyd3scpChLcerURGsWkqsjh4WokUeuDrWuHVtM&downloadName=img291+%28%E5%B0%8F%29.webp'
+    },
+    {
+      name: 'Lullaby of Resembool',
+      artist: '千住明',
+      url: 'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/abbc29d4-d49c-4aa3-9c09-203687e87b7c/14._Lullaby_of_Resembool.flac?id=1f292ea7-b0df-4a0e-952c-17ec8de23cd6&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=g1fNJAI31geP7s4kMWIo48SfuM1SS-DfnjPa5GW4EtA&downloadName=14.+Lullaby+of+Resembool.flac',
+      cover:
+            'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/941b48ba-f1a0-409f-9c26-3e956ed5dacd/cover.webp?id=636357ee-f6ff-47b6-b4e3-ec680c2c23ae&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=kunbbRPPFe8xNz0aeH9rvXpYFs3TzA-6g6KOr0OJW4g&downloadName=cover.webp'
+    },
+    {
+      name: 'The Intrepid',
+      artist: '千住明',
+      url: 'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/ba7bf1e0-8a9e-4be5-b972-18f3bf8e9fdf/07._The_Intrepid.flac?id=cdc8997e-e621-43e5-83de-592b57268c6b&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=Lyjz_ABXD2EfAI1NNgQD7rAU-BwuS2F-m6MXBI9wjP8&downloadName=07.+The+Intrepid.flac',
+      cover:
+            'https://file.notion.so/f/f/8ed0afce-5eb2-481e-b585-291a489c6b9b/708e347b-9157-4a21-9fc7-4a4346a4d397/cover_(1).webp?id=8e6d71be-ce55-4d19-b70a-dedc5b2ab737&table=block&spaceId=8ed0afce-5eb2-481e-b585-291a489c6b9b&expirationTimestamp=1707372000000&signature=WlZR_-MoL9EYbDFqA4z7TgVGFg2Eq-0HJOJVgEG_iLQ&downloadName=cover+%281%29.webp'
+    },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
